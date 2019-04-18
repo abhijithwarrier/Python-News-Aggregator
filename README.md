@@ -9,3 +9,5 @@ Get 14-Days Trial AYLIEN News API License Key From https://newsapi.aylien.com/
 
 The Python Client for AYLIEN News API can be installed by pip install aylien_news_api
 It is compatible with Python 2.7 and 3.4+
+
+Refer to https://docs.aylien.com/newsapi/ for more information
